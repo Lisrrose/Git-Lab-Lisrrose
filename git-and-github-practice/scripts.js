@@ -1,3 +1,3 @@
-Thank youu
-Happy birthday to you
+//Thank youu
+//Happy birthday to you
 "Este es un mensaje gracioso"
